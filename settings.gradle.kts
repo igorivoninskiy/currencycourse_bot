@@ -1,0 +1,1 @@
+rootProject.name = "currencycourse_bot"
